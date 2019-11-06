@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://hub.docker.com/">
-    <img src="website/static/img/logo.svg" alt="Docker Logo" width="400">
+    <img src="" alt="Docker Logo" width="400">
   </a>
   <br>
 </div>
