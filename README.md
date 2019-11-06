@@ -1,11 +1,10 @@
 <h1 align="center">Docker Tutorial</h1>
 
-<div align="center">
+<p align="center">
   <a href="https://hub.docker.com/">
-    <img src="images/Moby-logo.png" alt="Docker Logo" width="400">
+    <img src="images/Moby-logo.png" alt="Docker Logo" width="320">
   </a>
-  <br>
-</div>
+</p>
 
 ## What is this?
 
