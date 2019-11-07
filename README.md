@@ -8,7 +8,7 @@
 
 ## What is this?
 
-Created as a personal reference for learning about Docker. Following the official [Docker Tutorial](https://docs.docker.com/get-started/part2/) for educational purposes.
+Created as a personal reference for learning about Docker. Following the official [Docker Tutorial](https://docs.docker.com/get-started/part2/) for educational purposes. 
 
 ## Docker Concepts
 
@@ -19,6 +19,9 @@ Created as a personal reference for learning about Docker. Following the officia
 - Why should we use Docker?
 >- Docker is a useful tool designed to make it easier to create, deploy, and run apps by using containers. Containers allows a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
 >- Build any app in any language using any stack. Dockerized apps can run anywhere on anything. Avoid dependency hell.
+
+- What is containerization?
+>- Practice of isolating software in an operating environment with lower overhead than running a full virtual machine. 
 
 - Why is containerization so popular?
 >- Flexible: Even the most complex applications can be containerized.
@@ -38,10 +41,12 @@ Created as a personal reference for learning about Docker. Following the officia
 >- Docker Registry = Public & private repos used to store images and collaborate with others (similar to GitHub)
 >- Dockerfile = Automate image construction
 
-What does Kubernetes do with Docker?
+What is Kubernetes and what does it do with Docker?
+>- Kubernetes is a container orchestration tool that is responsible for allocating and scheduling containers, providing them with abstracted functionality like internal networking & file storage, and then monitoring the health of all of these elements and stepping in to repair or adjust them as necessary.
 >- Tool to automate the scheduling and deployment of Docker containers. Provides framework to run distributed systems resiliently and takes care of scaling and failover for our application, provides deployment patterns, etc.
 
-
-
 ## Resources
+- [Official Kubernetes Doc](https://kubernetes.io/docs/home/)
+- [Official Docker Docs](https://docs.docker.com/)
 - [YouTube Explanation by CBT Nugget](https://www.youtube.com/watch?v=aLipr7tTuA4)
+- [Illustration of Kubernetes](https://chrisshort.net/kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf)
