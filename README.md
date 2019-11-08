@@ -50,3 +50,5 @@ What is Kubernetes and what does it do with Docker?
 - [Official Docker Docs](https://docs.docker.com/)
 - [YouTube Explanation by CBT Nugget](https://www.youtube.com/watch?v=aLipr7tTuA4)
 - [Illustration of Kubernetes](https://chrisshort.net/kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf)
+- [Dell EMC intro](https://www.youtube.com/watch?v=IEGPzmxyIpo)
+- [TechLead Explanation](https://www.youtube.com/watch?v=IbUXb4pQbPY)
